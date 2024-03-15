@@ -4,6 +4,6 @@ Multiple sequence alignment is one of the most important algorithms in biologica
 # Installation
 We provide a use case, users can simply compile it:
 ```bash
-git clone https://github.com/junhaiqi/msaLW.git && cd masLW
+git clone https://github.com/junhaiqi/msaLW.git && cd msaLW
 make
 ```
