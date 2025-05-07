@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -O3 -fopenmp
+CXXFLAGS = -std=c++11 -Wall -O3 -fopenmp -L.
 LDFLAGS = -lz -lspoa
 LIBDIR := -L.
 
